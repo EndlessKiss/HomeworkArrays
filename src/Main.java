@@ -35,7 +35,9 @@ public class Main {
             result = result + reverseFullName[i];
                    }
         System.out.println(result);
+
     }
+
 
 
 
